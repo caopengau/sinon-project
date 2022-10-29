@@ -1,0 +1,15 @@
+{
+  "name": "sinon-project",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.1.0",
+    "sinon": "^14.0.1"
+  }
+}
